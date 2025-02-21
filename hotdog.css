@@ -7,7 +7,7 @@ body {
     height: 100vh;
     margin: 0;
     /* Add background image here */
-    background-image: url('group.JPG'); /* Replace 'your-image.jpg' */
+    background-image: url('group.jpg'); /* Replace 'your-image.jpg' */
     background-size: cover; /* Cover the entire viewport */
     background-repeat: no-repeat; /* Prevent image repetition */
     background-position: center; /* Center the image */
